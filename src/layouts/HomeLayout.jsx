@@ -12,4 +12,6 @@ const HomeLayout = ({children}) => {
   )
 }
 
+
+
 export default HomeLayout

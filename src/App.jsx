@@ -5,6 +5,7 @@ import Regions from './pages/Regions';
 import NotFound from './pages/NotFound';
 import HomeLayout from './layouts/HomeLayout';
 import OtherLayouts from './layouts/OtherLayouts';
+import Pagination from './components/Pagination';
 
 const App = () => {
   return (
